@@ -1,0 +1,894 @@
+{
+  "currentUser": {
+    "employeeId": "1234",
+    "name": "Raoul van Haaften",
+    "email": "raoul.van.haaften@nl.abnamro.com",
+    "roles": [
+      "ROLE_ADMIN"
+    ]
+  },
+  "offices": [
+    {
+      "id": "2914",
+      "address": "2e Hogeweg 38",
+      "city": "Zeist",
+      "boNumber": 71052
+    },
+    {
+      "id": "2812",
+      "address": "Aankomsthal 3/Vertrekpassage 221",
+      "city": "Schiphol (Financial Plaza)",
+      "boNumber": 39109
+    },
+    {
+      "id": "2441",
+      "address": "Apollolaan 171",
+      "city": "Amsterdam",
+      "boNumber": 16966
+    },
+    {
+      "id": "3594",
+      "address": "Arnhemseweg 7",
+      "city": "Ede",
+      "boNumber": 65328
+    },
+    {
+      "id": "3559",
+      "address": "Avenue Ceramique 40",
+      "city": "Maastricht",
+      "boNumber": 85576
+    },
+    {
+      "id": "2592",
+      "address": "Baander 32",
+      "city": "Emmen",
+      "boNumber": 57706
+    },
+    {
+      "id": "2429",
+      "address": "Bagijnenstraat 2",
+      "city": "Alkmaar",
+      "boNumber": 79018
+    },
+    {
+      "id": "2903",
+      "address": "Balinkesstraat 10",
+      "city": "Winterswijk",
+      "boNumber": 1320
+    },
+    {
+      "id": "2613",
+      "address": "Banneweg 10",
+      "city": "Gorinchem",
+      "boNumber": 14496
+    },
+    {
+      "id": "2788",
+      "address": "Bergse Dorpsstraat 8",
+      "city": "Rotterdam",
+      "boNumber": 92893
+    },
+    {
+      "id": "2650",
+      "address": "Beursstraat 15",
+      "city": "Hengelo",
+      "boNumber": 25956
+    },
+    {
+      "id": "2638",
+      "address": "Binnenweg 67",
+      "city": "Heemstede",
+      "boNumber": 60635
+    },
+    {
+      "id": "2501",
+      "address": "Bloemendaalseweg 119",
+      "city": "Bloemendaal",
+      "boNumber": 52623
+    },
+    {
+      "id": "2704",
+      "address": "Blokhuis 48",
+      "city": "Lisse",
+      "boNumber": 5504
+    },
+    {
+      "id": "2432",
+      "address": "Bordes 5",
+      "city": "Almere",
+      "boNumber": 64341
+    },
+    {
+      "id": "3604",
+      "address": "Bouwlingplein 17",
+      "city": "Oosterhout",
+      "boNumber": 33654
+    },
+    {
+      "id": "2523",
+      "address": "Brediusweg 12",
+      "city": "Bussum",
+      "boNumber": 4605
+    },
+    {
+      "id": "2496",
+      "address": "Breestraat 81",
+      "city": "Beverwijk",
+      "boNumber": 74922
+    },
+    {
+      "id": "2629",
+      "address": "Bruchterweg 1",
+      "city": "Hardenberg",
+      "boNumber": 79450
+    },
+    {
+      "id": "2647",
+      "address": "Bruggehoofd 2",
+      "city": "Hellevoetsluis",
+      "boNumber": 64569
+    },
+    {
+      "id": "2443",
+      "address": "Buikslotermeerplein 243",
+      "city": "Amsterdam",
+      "boNumber": 56475
+    },
+    {
+      "id": "2842",
+      "address": "Burg Hasselmanplein 4",
+      "city": "Tiel",
+      "boNumber": 915
+    },
+    {
+      "id": "2641",
+      "address": "Burg. Kuperusplein 46",
+      "city": "Heerenveen",
+      "boNumber": 78882
+    },
+    {
+      "id": "2901",
+      "address": "Burg. Schonfeldplein 29",
+      "city": "Winschoten",
+      "boNumber": 72516
+    },
+    {
+      "id": "2573",
+      "address": "Burg. Wuiteweg 12",
+      "city": "Drachten",
+      "boNumber": 60176
+    },
+    {
+      "id": "2509",
+      "address": "Chasseveld 1",
+      "city": "Breda",
+      "boNumber": 98960
+    },
+    {
+      "id": "2791",
+      "address": "Coolsingel 93",
+      "city": "Rotterdam",
+      "boNumber": 96715
+    },
+    {
+      "id": "2446",
+      "address": "Dam 2",
+      "city": "Amsterdam",
+      "boNumber": 83106
+    },
+    {
+      "id": "2591",
+      "address": "De Deel 10",
+      "city": "Emmeloord",
+      "boNumber": 34285
+    },
+    {
+      "id": "2747",
+      "address": "De Kempenaerstraat 1",
+      "city": "Oegstgeest",
+      "boNumber": 77341
+    },
+    {
+      "id": "2544",
+      "address": "De Savornin Lohmanplein 42",
+      "city": "s-Gravenhage",
+      "boNumber": 69965
+    },
+    {
+      "id": "2590",
+      "address": "Dorpsstraat 53",
+      "city": "Elst",
+      "boNumber": 53605
+    },
+    {
+      "id": "2635",
+      "address": "Dorpsweg 2",
+      "city": "Hattem",
+      "boNumber": 2754
+    },
+    {
+      "id": "2524",
+      "address": "Duikerlaan 260",
+      "city": "Capelle aan den IJssel",
+      "boNumber": 90144
+    },
+    {
+      "id": "2618",
+      "address": "Eikenlaan 306",
+      "city": "Groningen",
+      "boNumber": 70614
+    },
+    {
+      "id": "2893",
+      "address": "Emmasingel 42",
+      "city": "Weert",
+      "boNumber": 71854
+    },
+    {
+      "id": "2820",
+      "address": "Engelenkampstraat 58",
+      "city": "Sittard",
+      "boNumber": 91212
+    },
+    {
+      "id": "3562",
+      "address": "Evert van de Beekstraat 1",
+      "city": "Schiphol",
+      "boNumber": 5153
+    },
+    {
+      "id": "2909",
+      "address": "Gedempte Gracht 96",
+      "city": "Zaandam",
+      "boNumber": 59453
+    },
+    {
+      "id": "2665",
+      "address": "Gorecht Oost 166",
+      "city": "Hoogezand",
+      "boNumber": 86587
+    },
+    {
+      "id": "2620",
+      "address": "Grote Markt 22",
+      "city": "Groningen",
+      "boNumber": 35851
+    },
+    {
+      "id": "2720",
+      "address": "Grote Oever 28",
+      "city": "Meppel",
+      "boNumber": 66857
+    },
+    {
+      "id": "2918",
+      "address": "Havenpark 7",
+      "city": "Zierikzee",
+      "boNumber": 3224
+    },
+    {
+      "id": "2479",
+      "address": "Henry Dunantlaan 3",
+      "city": "Barendrecht",
+      "boNumber": 5113
+    },
+    {
+      "id": "2839",
+      "address": "Herengracht 15",
+      "city": "Terneuzen",
+      "boNumber": 21166
+    },
+    {
+      "id": "2727",
+      "address": "Herenstraat 17-19",
+      "city": "Naaldwijk",
+      "boNumber": 29900
+    },
+    {
+      "id": "2783",
+      "address": "Herenstraat 26",
+      "city": "Rijswijk",
+      "boNumber": 27380
+    },
+    {
+      "id": "2604",
+      "address": "Heuvel 35",
+      "city": "Geldrop",
+      "boNumber": 60404
+    },
+    {
+      "id": "2843",
+      "address": "Heuvelring 88",
+      "city": "Tilburg",
+      "boNumber": 27581
+    },
+    {
+      "id": "2844",
+      "address": "Heyhoefpromenade 69",
+      "city": "Tilburg",
+      "boNumber": 6639
+    },
+    {
+      "id": "2877",
+      "address": "Hindersteinlaan 9",
+      "city": "Vleuten",
+      "boNumber": 68006
+    },
+    {
+      "id": "2465",
+      "address": "Hofstraat 161",
+      "city": "Apeldoorn",
+      "boNumber": 83804
+    },
+    {
+      "id": "2868",
+      "address": "Hoofdstraat 30",
+      "city": "Velp (GLD)",
+      "boNumber": 9205
+    },
+    {
+      "id": "2867",
+      "address": "Horst 18",
+      "city": "Veldhoven",
+      "boNumber": 43496
+    },
+    {
+      "id": "2625",
+      "address": "Houtplein 47",
+      "city": "Haarlem",
+      "boNumber": 50602
+    },
+    {
+      "id": "2586",
+      "address": "Htc 1 / Prof. Holstlaan 4",
+      "city": "Eindhoven",
+      "boNumber": 68644
+    },
+    {
+      "id": "2678",
+      "address": "IJsselkade 50",
+      "city": "Kampen",
+      "boNumber": 62180
+    },
+    {
+      "id": "2872",
+      "address": "Julianasingel 7A",
+      "city": "Venray",
+      "boNumber": 81714
+    },
+    {
+      "id": "2769",
+      "address": "Kalversteeg 1",
+      "city": "Purmerend",
+      "boNumber": 45040
+    },
+    {
+      "id": "2648",
+      "address": "Kasteel Traverse 66",
+      "city": "Helmond",
+      "boNumber": 27723
+    },
+    {
+      "id": "2899",
+      "address": "Kasteellaan 30",
+      "city": "Wijchen",
+      "boNumber": 61404
+    },
+    {
+      "id": "2735",
+      "address": "Keizer Karelplein 33",
+      "city": "Nijmegen",
+      "boNumber": 44950
+    },
+    {
+      "id": "2870",
+      "address": "Keulsepoort 12",
+      "city": "Venlo",
+      "boNumber": 86069
+    },
+    {
+      "id": "2785",
+      "address": "Kloosterwandplein 120",
+      "city": "Roermond",
+      "boNumber": 87549
+    },
+    {
+      "id": "2880",
+      "address": "Kon. Julianalaan 353",
+      "city": "Voorburg",
+      "boNumber": 75263
+    },
+    {
+      "id": "2547",
+      "address": "Koningskade 30",
+      "city": "s-Gravenhage",
+      "boNumber": 72321
+    },
+    {
+      "id": "3527",
+      "address": "Koningsplein 4",
+      "city": "Den Helder",
+      "boNumber": 17271
+    },
+    {
+      "id": "2876",
+      "address": "Korte Hoogstraat 41A",
+      "city": "Vlaardingen",
+      "boNumber": 46678
+    },
+    {
+      "id": "2810",
+      "address": "Land Van Belofte 2-6",
+      "city": "Schiedam",
+      "boNumber": 51029
+    },
+    {
+      "id": "2539",
+      "address": "Landstraat 81",
+      "city": "Delfzijl",
+      "boNumber": 19494
+    },
+    {
+      "id": "2891",
+      "address": "Lange Kerkdam 1",
+      "city": "Wassenaar",
+      "boNumber": 25305
+    },
+    {
+      "id": "2674",
+      "address": "Lange Nieuwstraat 751-753",
+      "city": "IJmuiden",
+      "boNumber": 73606
+    },
+    {
+      "id": "2758",
+      "address": "Langeweg 11",
+      "city": "Oud-Beijerland",
+      "boNumber": 51535
+    },
+    {
+      "id": "2452",
+      "address": "Leidseplien 29",
+      "city": "Amsterdam",
+      "boNumber": 63262
+    },
+    {
+      "id": "2739",
+      "address": "Lindenplein 6",
+      "city": "Noordwijk",
+      "boNumber": 25376
+    },
+    {
+      "id": "2477",
+      "address": "Lorentzplein 40",
+      "city": "Badhoevedorp",
+      "boNumber": 75383
+    },
+    {
+      "id": "2919",
+      "address": "Luxemburglaan 1",
+      "city": "Zoetermeer",
+      "boNumber": 43340
+    },
+    {
+      "id": "2558",
+      "address": "Markt 10",
+      "city": "Deurne",
+      "boNumber": 54947
+    },
+    {
+      "id": "2865",
+      "address": "Markt 20",
+      "city": "Veenendaal",
+      "boNumber": 71726
+    },
+    {
+      "id": "2515",
+      "address": "Markt 2A",
+      "city": "Breukelen",
+      "boNumber": 8461
+    },
+    {
+      "id": "2664",
+      "address": "Markt 3-01",
+      "city": "Hoogeveen",
+      "boNumber": 83907
+    },
+    {
+      "id": "2721",
+      "address": "Markt 7",
+      "city": "Middelburg",
+      "boNumber": 2228
+    },
+    {
+      "id": "2786",
+      "address": "Markt 79-81",
+      "city": "Roosendaal",
+      "boNumber": 66819
+    },
+    {
+      "id": "2601",
+      "address": "Markthof 15-17",
+      "city": "Etten-Leur",
+      "boNumber": 78774
+    },
+    {
+      "id": "2662",
+      "address": "Marktplein 11",
+      "city": "Hoofddorp",
+      "boNumber": 60547
+    },
+    {
+      "id": "2923",
+      "address": "Martinetsingel 21",
+      "city": "Zutphen",
+      "boNumber": 22061
+    },
+    {
+      "id": "2642",
+      "address": "Middenwaard 116",
+      "city": "Heerhugowaard",
+      "boNumber": 21513
+    },
+    {
+      "id": "2454",
+      "address": "Middenweg 10",
+      "city": "Amsterdam",
+      "boNumber": 44588
+    },
+    {
+      "id": "2888",
+      "address": "Mr Van Coothstraat 2",
+      "city": "Waalwijk",
+      "boNumber": 40562
+    },
+    {
+      "id": "2700",
+      "address": "Muntstraat 219",
+      "city": "Lelystad",
+      "boNumber": 63476
+    },
+    {
+      "id": "2856",
+      "address": "Neude 4",
+      "city": "Utrecht",
+      "boNumber": 87273
+    },
+    {
+      "id": "2809",
+      "address": "Nieuwstraat 6",
+      "city": "Schagen",
+      "boNumber": 81760
+    },
+    {
+      "id": "2722",
+      "address": "Nieuwstraat 75",
+      "city": "Middelharnis",
+      "boNumber": 79905
+    },
+    {
+      "id": "2818",
+      "address": "Nieuwstraat 79",
+      "city": "s-Hertogenbosch",
+      "boNumber": 36804
+    },
+    {
+      "id": "2457",
+      "address": "Osdorpplein 369",
+      "city": "Amsterdam",
+      "boNumber": 10865
+    },
+    {
+      "id": "2916",
+      "address": "Oude Doesburgseweg 3",
+      "city": "Zevenaar",
+      "boNumber": 62933
+    },
+    {
+      "id": "2610",
+      "address": "Piet Heinstraat 9",
+      "city": "Goes",
+      "boNumber": 31543
+    },
+    {
+      "id": "2487",
+      "address": "Plein 29",
+      "city": "Bergen",
+      "boNumber": 91800
+    },
+    {
+      "id": "2798",
+      "address": "Poolsterplein 135",
+      "city": "Rotterdam",
+      "boNumber": 72771
+    },
+    {
+      "id": "2643",
+      "address": "Promenade 297",
+      "city": "Heerlen",
+      "boNumber": 27656
+    },
+    {
+      "id": "2717",
+      "address": "Promenade 33A",
+      "city": "Malden",
+      "boNumber": 32838
+    },
+    {
+      "id": "3526",
+      "address": "Pynepoort 11",
+      "city": "Delft",
+      "boNumber": 79449
+    },
+    {
+      "id": "2757",
+      "address": "Raadhuislaan 3",
+      "city": "Oss",
+      "boNumber": 29358
+    },
+    {
+      "id": "2827",
+      "address": "Raadhuislaan 91",
+      "city": "Spijkenisse",
+      "boNumber": 4589
+    },
+    {
+      "id": "2632",
+      "address": "Rijksstraatweg 184",
+      "city": "Haren (GN)",
+      "boNumber": 41029
+    },
+    {
+      "id": "2431",
+      "address": "Rosa Luxemburgstraat 2",
+      "city": "Almelo",
+      "boNumber": 96931
+    },
+    {
+      "id": "2657",
+      "address": "s-Gravelandseweg 9",
+      "city": "Hilversum",
+      "boNumber": 72888
+    },
+    {
+      "id": "2439",
+      "address": "Sandbergplein 24",
+      "city": "Amstelveen",
+      "boNumber": 15771
+    },
+    {
+      "id": "2670",
+      "address": "Schonenburgseind 92",
+      "city": "Houten",
+      "boNumber": 14883
+    },
+    {
+      "id": "2879",
+      "address": "Schoolstraat 9-17",
+      "city": "Volendam",
+      "boNumber": 88960
+    },
+    {
+      "id": "2630",
+      "address": "Selhorstweg 1",
+      "city": "Harderwijk",
+      "boNumber": 61852
+    },
+    {
+      "id": "2823",
+      "address": "Sint Antoniusplein 1",
+      "city": "Sneek",
+      "boNumber": 74858
+    },
+    {
+      "id": "2435",
+      "address": "Stadhuisplein 12",
+      "city": "Alphen aan den Rijn",
+      "boNumber": 19147
+    },
+    {
+      "id": "2890",
+      "address": "Stadsbrink 519",
+      "city": "Wageningen",
+      "boNumber": 50626
+    },
+    {
+      "id": "2437",
+      "address": "Stadsring 115",
+      "city": "Amersfoort",
+      "boNumber": 30806
+    },
+    {
+      "id": "2552",
+      "address": "Statenlaan 46",
+      "city": "s-Gravenhage",
+      "boNumber": 95108
+    },
+    {
+      "id": "2928",
+      "address": "Stationsplein 13",
+      "city": "Zwolle",
+      "boNumber": 90395
+    },
+    {
+      "id": "2596",
+      "address": "Stationsplein 8",
+      "city": "Enschede",
+      "boNumber": 18794
+    },
+    {
+      "id": "3606",
+      "address": "Stationsweg 11",
+      "city": "Leiden",
+      "boNumber": 46440
+    },
+    {
+      "id": "2572",
+      "address": "Stationsweg 2",
+      "city": "Dordrecht",
+      "boNumber": 52244
+    },
+    {
+      "id": "2507",
+      "address": "Steenstraat 70",
+      "city": "Boxmeer",
+      "boNumber": 51026
+    },
+    {
+      "id": "2462",
+      "address": "Strawinskylaan 31",
+      "city": "Amsterdam",
+      "boNumber": 35996
+    },
+    {
+      "id": "2741",
+      "address": "Telgang 4",
+      "city": "Nootdorp",
+      "boNumber": 14256
+    },
+    {
+      "id": "2566",
+      "address": "Terborgseweg 4",
+      "city": "Doetinchem",
+      "boNumber": 62422
+    },
+    {
+      "id": "2480",
+      "address": "Torenplein 63-65",
+      "city": "Barneveld",
+      "boNumber": 53565
+    },
+    {
+      "id": "2712",
+      "address": "Uiverlaan 10",
+      "city": "Maassluis",
+      "boNumber": 1724
+    },
+    {
+      "id": "2824",
+      "address": "Van Weedestraat 97",
+      "city": "Soest",
+      "boNumber": 78411
+    },
+    {
+      "id": "2668",
+      "address": "Veemarkt 6",
+      "city": "Hoorn",
+      "boNumber": 80916
+    },
+    {
+      "id": "2764",
+      "address": "Veerpromenade 24",
+      "city": "Papendrecht",
+      "boNumber": 33274
+    },
+    {
+      "id": "3033",
+      "address": "Velperweg 37",
+      "city": "Arnhem",
+      "boNumber": 76345
+    },
+    {
+      "id": "2813",
+      "address": "Vertrekpassage 200",
+      "city": "Schiphol",
+      "boNumber": 15906
+    },
+    {
+      "id": "2560",
+      "address": "Verzetslaan 20",
+      "city": "Deventer",
+      "boNumber": 71269
+    },
+    {
+      "id": "2587",
+      "address": "Vestdijk 18",
+      "city": "Eindhoven",
+      "boNumber": 32959
+    },
+    {
+      "id": "2497",
+      "address": "Vinkenlaan 2",
+      "city": "Bilthoven",
+      "boNumber": 55096
+    },
+    {
+      "id": "2634",
+      "address": "Voorstraat 17-19",
+      "city": "Harlingen",
+      "boNumber": 10695
+    },
+    {
+      "id": "2616",
+      "address": "Vredebest 1",
+      "city": "Gouda",
+      "boNumber": 63268
+    },
+    {
+      "id": "2488",
+      "address": "Wassenaarstraat 57",
+      "city": "Bergen Op Zoom",
+      "boNumber": 92398
+    },
+    {
+      "id": "3597",
+      "address": "Weiersstraat 3",
+      "city": "Assen",
+      "boNumber": 61000
+    },
+    {
+      "id": "2904",
+      "address": "Westdam 4",
+      "city": "Woerden",
+      "boNumber": 20863
+    },
+    {
+      "id": "2730",
+      "address": "Weverstedehof 1",
+      "city": "Nieuwegein",
+      "boNumber": 91950
+    },
+    {
+      "id": "2562",
+      "address": "Wilhelminaplantsoen 5",
+      "city": "Diemen",
+      "boNumber": 78772
+    },
+    {
+      "id": "2803",
+      "address": "Willem Ruyslaan 75",
+      "city": "Rotterdam",
+      "boNumber": 50039
+    },
+    {
+      "id": "3547",
+      "address": "Willem van Weldammelaan 7",
+      "city": "Amsterdam",
+      "boNumber": 37859
+    },
+    {
+      "id": "2694",
+      "address": "Willemskade 10",
+      "city": "Leeuwarden",
+      "boNumber": 21582
+    },
+    {
+      "id": "2588",
+      "address": "Winkelcentrum Woensel 120 B1",
+      "city": "Eindhoven",
+      "boNumber": 57517
+    },
+    {
+      "id": "2424",
+      "address": "Zijdstraat 46A",
+      "city": "Aalsmeer",
+      "boNumber": 9864
+    },
+    {
+      "id": "2804",
+      "address": "Zuidplein 54",
+      "city": "Rotterdam",
+      "boNumber": 71031
+    }
+  ]
+}
