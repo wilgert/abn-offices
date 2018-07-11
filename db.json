@@ -4,7 +4,7 @@
     "name": "Raoul van Haaften",
     "email": "raoul.van.haaften@nl.abnamro.com",
     "roles": [
-      "ROLE_ADMIN"
+      "ROLE_ADMIN", "ROLE_USER"
     ]
   },
   "offices": [
