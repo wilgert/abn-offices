@@ -1,30 +1,73 @@
 {
   "currentUser": {
-    "employeeId": "1234",
+    "corporateId": "1234",
     "name": "Raoul van Haaften",
     "email": "raoul.van.haaften@nl.abnamro.com",
-    "roles": [
-      "ROLE_ADMIN", "ROLE_USER"
-    ]
+    "roles": ["ROLE_USER", "ROLE_ADMIN"]
   },
   "offices": [
     {
-      "id": "2914",
-      "address": "2e Hogeweg 38",
-      "city": "Zeist",
-      "boNumber": 71052
+      "id": 1,
+      "city": "Galaxy",
+      "address": "Magrathea",
+      "boNumber": "42",
+      "advisors": [
+        {
+          "corporateId": "1",
+          "name": "Arthur Dent",
+          "email": "arthur.dent@abn.nl"
+        },
+        {
+          "corporateId": "2",
+          "name": "Ford Prefect",
+          "email": "fort.prefectt@abn.nl"
+        },
+        {
+          "corporateId": "3",
+          "name": "Marvin the Paranoid Android",
+          "email": "marvin@abn.nl"
+        },
+        {
+          "corporateId": "4",
+          "name": "Trillian Astra",
+          "email": "trillian.astra@abn.nl"
+        },
+        {
+          "corporateId": "5",
+          "name": "Zaphod Beeblebrox",
+          "email": "zaphod.beeblebrox@abn.nl"
+        },
+        {
+          "corporateId": "6",
+          "name": "Slartibartfast",
+          "email": "slartibartfast@abn.nl"
+        },
+        {
+          "corporateId": "7",
+          "name": "Questular Rontok",
+          "email": "questular.rontok@abn.nl"
+        },
+        {
+          "corporateId": "8",
+          "name": "Humma Kavula",
+          "email": "humma.kavula@abn.nl"
+        }
+      ],
+      "advisorCount": 8
     },
     {
       "id": "2812",
       "address": "Aankomsthal 3/Vertrekpassage 221",
       "city": "Schiphol (Financial Plaza)",
-      "boNumber": 39109
+      "boNumber": 39109,
+      "advisorCount": 6
     },
     {
       "id": "2441",
       "address": "Apollolaan 171",
       "city": "Amsterdam",
-      "boNumber": 16966
+      "boNumber": 16966,
+      "advisorCount": 8
     },
     {
       "id": "3594",
@@ -42,7 +85,8 @@
       "id": "2592",
       "address": "Baander 32",
       "city": "Emmen",
-      "boNumber": 57706
+      "boNumber": 57706,
+      "advisorCount": 9
     },
     {
       "id": "2429",
@@ -133,54 +177,6 @@
       "address": "Buikslotermeerplein 243",
       "city": "Amsterdam",
       "boNumber": 56475
-    },
-    {
-      "id": "2842",
-      "address": "Burg Hasselmanplein 4",
-      "city": "Tiel",
-      "boNumber": 915
-    },
-    {
-      "id": "2641",
-      "address": "Burg. Kuperusplein 46",
-      "city": "Heerenveen",
-      "boNumber": 78882
-    },
-    {
-      "id": "2901",
-      "address": "Burg. Schonfeldplein 29",
-      "city": "Winschoten",
-      "boNumber": 72516
-    },
-    {
-      "id": "2573",
-      "address": "Burg. Wuiteweg 12",
-      "city": "Drachten",
-      "boNumber": 60176
-    },
-    {
-      "id": "2509",
-      "address": "Chasseveld 1",
-      "city": "Breda",
-      "boNumber": 98960
-    },
-    {
-      "id": "2791",
-      "address": "Coolsingel 93",
-      "city": "Rotterdam",
-      "boNumber": 96715
-    },
-    {
-      "id": "2446",
-      "address": "Dam 2",
-      "city": "Amsterdam",
-      "boNumber": 83106
-    },
-    {
-      "id": "2591",
-      "address": "De Deel 10",
-      "city": "Emmeloord",
-      "boNumber": 34285
     }
   ]
 }
