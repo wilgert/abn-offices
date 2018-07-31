@@ -1,182 +1,133 @@
 {
   "currentUser": {
+    "id": 1234,
     "corporateId": "1234",
     "name": "Raoul van Haaften",
     "email": "raoul.van.haaften@nl.abnamro.com",
     "roles": ["ROLE_USER", "ROLE_ADMIN"]
   },
+  "advisors": [
+    {
+      "id": 1,
+      "corporateId": "1",
+      "name": "Arthur Dent",
+      "email": "arthur.dent@abn.nl"
+    },
+    {
+      "id": 2,
+      "corporateId": "2",
+      "name": "Ford Prefect",
+      "email": "ford.prefect@abn.nl"
+    },
+    {
+      "id": 3,
+      "corporateId": "3",
+      "name": "Marvin the Paranoid Android",
+      "email": "marvin@abn.nl"
+    },
+    {
+      "id": 4,
+      "corporateId": "4",
+      "name": "Trillian Astra",
+      "email": "trillian.astra@abn.nl"
+    },
+    {
+      "id": 5,
+      "corporateId": "5",
+      "name": "Zaphod Beeblebrox",
+      "email": "zaphod.beeblebrox@abn.nl"
+    },
+    {
+      "id": 6,
+      "corporateId": "6",
+      "name": "Slartibartfast",
+      "email": "slartibartfast@abn.nl"
+    },
+    {
+      "id": 7,
+      "corporateId": "7",
+      "name": "Questular Rontok",
+      "email": "questular.rontok@abn.nl"
+    },
+    {
+      "id": 8,
+      "corporateId": "8",
+      "name": "Humma Kavula",
+      "email": "humma.kavula@abn.nl"
+    }
+  ],
   "offices": [
     {
       "id": 1,
       "city": "Galaxy",
       "address": "Magrathea",
       "boNumber": "42",
-      "advisors": [
-        {
-          "corporateId": "1",
-          "name": "Arthur Dent",
-          "email": "arthur.dent@abn.nl"
-        },
-        {
-          "corporateId": "2",
-          "name": "Ford Prefect",
-          "email": "fort.prefectt@abn.nl"
-        },
-        {
-          "corporateId": "3",
-          "name": "Marvin the Paranoid Android",
-          "email": "marvin@abn.nl"
-        },
-        {
-          "corporateId": "4",
-          "name": "Trillian Astra",
-          "email": "trillian.astra@abn.nl"
-        },
-        {
-          "corporateId": "5",
-          "name": "Zaphod Beeblebrox",
-          "email": "zaphod.beeblebrox@abn.nl"
-        },
-        {
-          "corporateId": "6",
-          "name": "Slartibartfast",
-          "email": "slartibartfast@abn.nl"
-        },
-        {
-          "corporateId": "7",
-          "name": "Questular Rontok",
-          "email": "questular.rontok@abn.nl"
-        },
-        {
-          "corporateId": "8",
-          "name": "Humma Kavula",
-          "email": "humma.kavula@abn.nl"
-        }
-      ],
       "advisorCount": 8
     },
     {
-      "id": "2812",
-      "address": "Aankomsthal 3/Vertrekpassage 221",
-      "city": "Schiphol (Financial Plaza)",
-      "boNumber": 39109,
-      "advisorCount": 6
-    },
-    {
-      "id": "2441",
-      "address": "Apollolaan 171",
+      "id": 2,
       "city": "Amsterdam",
-      "boNumber": 16966,
-      "advisorCount": 8
+      "address": "Osdorpplein 123",
+      "boNumber": "24567890"
     },
     {
-      "id": "3594",
-      "address": "Arnhemseweg 7",
-      "city": "Ede",
-      "boNumber": 65328
-    },
-    {
-      "id": "3559",
-      "address": "Avenue Ceramique 40",
-      "city": "Maastricht",
-      "boNumber": 85576
-    },
-    {
-      "id": "2592",
-      "address": "Baander 32",
-      "city": "Emmen",
-      "boNumber": 57706,
-      "advisorCount": 9
-    },
-    {
-      "id": "2429",
-      "address": "Bagijnenstraat 2",
-      "city": "Alkmaar",
-      "boNumber": 79018
-    },
-    {
-      "id": "2903",
-      "address": "Balinkesstraat 10",
-      "city": "Winterswijk",
-      "boNumber": 1320
-    },
-    {
-      "id": "2613",
-      "address": "Banneweg 10",
-      "city": "Gorinchem",
-      "boNumber": 14496
-    },
-    {
-      "id": "2788",
-      "address": "Bergse Dorpsstraat 8",
+      "id": 3,
       "city": "Rotterdam",
-      "boNumber": 92893
+      "address": "Coolsingel 35",
+      "boNumber": "2352342"
     },
     {
-      "id": "2650",
-      "address": "Beursstraat 15",
-      "city": "Hengelo",
-      "boNumber": 25956
+      "id": 4,
+      "city": "Den Haag",
+      "address": "Plein 2",
+      "boNumber": "1234 5678"
+    }
+  ],
+  "searchadvisor": {
+    "advisors": [
+      {
+        "id": 2,
+        "corporateId": "2",
+        "name": "Ford Prefect",
+        "email": "ford.prefect@abn.nl"
+      }
+    ]
+  },
+  "linkedadvisors": [
+    {
+      "id": 4,
+      "officeId": 1,
+      "corporateId": "4",
+      "name": "Trillian Astra",
+      "email": "trillian.astra@abn.nl"
     },
     {
-      "id": "2638",
-      "address": "Binnenweg 67",
-      "city": "Heemstede",
-      "boNumber": 60635
+      "id": 5,
+      "officeId": 1,
+      "corporateId": "5",
+      "name": "Zaphod Beeblebrox",
+      "email": "zaphod.beeblebrox@abn.nl"
     },
     {
-      "id": "2501",
-      "address": "Bloemendaalseweg 119",
-      "city": "Bloemendaal",
-      "boNumber": 52623
+      "id": 6,
+      "officeId": 1,
+      "corporateId": "6",
+      "name": "Slartibartfast",
+      "email": "slartibartfast@abn.nl"
     },
     {
-      "id": "2704",
-      "address": "Blokhuis 48",
-      "city": "Lisse",
-      "boNumber": 5504
+      "id": 7,
+      "officeId": 1,
+      "corporateId": "7",
+      "name": "Questular Rontok",
+      "email": "questular.rontok@abn.nl"
     },
     {
-      "id": "2432",
-      "address": "Bordes 5",
-      "city": "Almere",
-      "boNumber": 64341
-    },
-    {
-      "id": "3604",
-      "address": "Bouwlingplein 17",
-      "city": "Oosterhout",
-      "boNumber": 33654
-    },
-    {
-      "id": "2523",
-      "address": "Brediusweg 12",
-      "city": "Bussum",
-      "boNumber": 4605
-    },
-    {
-      "id": "2496",
-      "address": "Breestraat 81",
-      "city": "Beverwijk",
-      "boNumber": 74922
-    },
-    {
-      "id": "2629",
-      "address": "Bruchterweg 1",
-      "city": "Hardenberg",
-      "boNumber": 79450
-    },
-    {
-      "id": "2647",
-      "address": "Bruggehoofd 2",
-      "city": "Hellevoetsluis",
-      "boNumber": 64569
-    },
-    {
-      "id": "2443",
-      "address": "Buikslotermeerplein 243",
-      "city": "Amsterdam",
-      "boNumber": 56475
+      "id": 3,
+      "officeId": 1,
+      "corporateId": "3",
+      "name": "Marvin the Paranoid Android",
+      "email": "marvin@abn.nl"
     }
   ]
 }
